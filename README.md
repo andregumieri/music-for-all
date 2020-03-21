@@ -3,7 +3,7 @@
 # English
 
 ## Why?
-World is facing a hard time in this Covid-19 era. And elder people are in quarentine for their sake. For them, TV turned on full time can be harm and cause panic. But many has no other distraction. Take my grandma and grandpa for example: Since I was a little kid, I was always seeing them enjoying music albuns using a record player at first, then a cassette tape and finaly migrating to the CD age. But today, in the streaming era, many elder lost their idenpendency to choose to what to listen depending on radio programming.  
+World is facing a hard time in this Covid-19 era. Older people are in quarentine for their sake. Many times for them, TV turned on full time can be harm and cause panic. But many has no other distraction. Take my grandma and grandpa for example: Since I was a little kid, I was always seeing them enjoying music albuns using a record player at first, then a cassette tape and finaly migrating to the CD age. But today, in the streaming era, many of them lost their idenpendency to choose to what to listen, depending on radio programming.  
 
 This project tries to give them the ability to choose for themselfs what to listen, and maybe, make their lives a bit easier during this hard times. 
 
