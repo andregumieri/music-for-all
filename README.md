@@ -21,12 +21,12 @@ This is a early, alpha, developed in one night, prototype. Just something I can 
 # Português
 
 ## Motivos
-O mundo está passando por tempos difíceis na era do Covid-19. Nossos idosos estão em quarentena para seu bem. Para eles, a TV ligada o tempo todo pode ser prejudicial e causar pânico. Mas muitos não tem outra distração. Meus avós, por exemplo: Desde pequeno, sempre vi eles ouvindo seus albuns de música favoritos por LPs, depois K7 e finalmente em CD. Hoje, na era do streaming, muitos deles perderam sua independência de ouvir o que querem e dependem da programação do rádio.
+O mundo está passando por tempos difíceis na era do Covid-19. Nossos idosos estão em quarentena para seu bem. Para eles, a TV ligada o tempo todo pode ser prejudicial e causar pânico. Mas muitos não têm outra distração. Meus avós, por exemplo: Desde pequeno, sempre vi eles ouvindo seus álbuns de música favoritos por LPs, depois K7 e finalmente em CD. Hoje, na era do streaming, muitos deles perderam sua independência de ouvir o que querem e dependem da programação do rádio. 
 
-Este projeto tenta lhes dar a abilidade de escolher o que querem ouvir e, talvez até, tornar a vida deles um pouco mais fácil durante esses tempos difíceis. 
+Este projeto tenta lhes dar a habilidade de escolher o que querem ouvir e, talvez até, tornar a vida deles um pouco mais fácil durante esses tempos difíceis.
 
 ## O projeto
-Extremamente simples. Uma lista selecionável de artistas e simples embeds do spotify com capas dos albuns grandes, para que eles possam identificar mais facilmente. 
+Extremamente simples. Uma lista selecionável de artistas e simples embeds do spotify com capas dos álbuns grandes, para que eles possam identificar mais facilmente.
 
 ## O que você precisa
 * Um tablet (Escolhi um iPad que tenho acesso);
@@ -34,4 +34,4 @@ Extremamente simples. Uma lista selecionável de artistas e simples embeds do sp
 * E a boa vontade de selecionar boas músicas para eles :)
 
 ## Ajuda necesária
-Este projeto é um protótipo alpha, desenvolvido em uma noite. Apenas alguma coisa que eu possa utilizar agora. Seria incrível melhorar este projeto. Deixar o layout mais fluído para qualquer tablet. Talvez fazer um UX mais fácil. E especialmente tornar esse projeto utilizavel por pessoas não técnicas. 
+Este projeto é um protótipo alpha, desenvolvido em uma noite. Apenas alguma coisa que eu possa utilizar agora. Seria incrível melhorar este projeto. Deixar o layout mais fluído para qualquer tablet. Talvez fazer um UX mais fácil. E especialmente tornar esse projeto utilizável por pessoas não técnicas.
