@@ -21,7 +21,7 @@ This is a early, alpha, developed in one night, prototype. Just something I can 
 # Português
 
 ## Motivos
-O mundo está passando por tempos difíceis na era do Covid-19. Nossos idosos estão em quarentena para seu bem. Para eles, a TV ligada o tempo todo pode ser prejudicial e causar pânico. Mas muitos não tem outra distração. Meus avós, por exemplo: Desde pequeno, sempre vi eles ouvindo seus albuns de música favoritos por LPs, depois K3 e finalmente em CD. Hoje, na era do streaming, muitos deles perderam sua independência de ouvir o que querem e dependem da programação do rádio.
+O mundo está passando por tempos difíceis na era do Covid-19. Nossos idosos estão em quarentena para seu bem. Para eles, a TV ligada o tempo todo pode ser prejudicial e causar pânico. Mas muitos não tem outra distração. Meus avós, por exemplo: Desde pequeno, sempre vi eles ouvindo seus albuns de música favoritos por LPs, depois K7 e finalmente em CD. Hoje, na era do streaming, muitos deles perderam sua independência de ouvir o que querem e dependem da programação do rádio.
 
 Este projeto tenta lhes dar a abilidade de escolher o que querem ouvir e, talvez até, tornar a vida deles um pouco mais fácil durante esses tempos difíceis. 
 
