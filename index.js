@@ -71,12 +71,14 @@ function change() {
 
 
 /*Add Artist Section Header*/
-var artistColumnTitle = document.createElement('div');
-artistColumnTitle._index = -1;
-artistColumnTitle.innerHTML = "Artists";
-artistColumnTitle.className = 'btn';
-artistColumnTitle.style.backgroundColor = "#eeeeee";
-list.append(artistColumnTitle)
+// @todo needs internationalization to use it
+
+// var artistColumnTitle = document.createElement('div');
+// artistColumnTitle._index = -1;
+// artistColumnTitle.innerHTML = "Artists";
+// artistColumnTitle.className = 'btn';
+// artistColumnTitle.style.backgroundColor = "#eeeeee";
+// list.append(artistColumnTitle)
 
 for(var x = 0; x < data.length; x++) {
     var artist = data[x];
