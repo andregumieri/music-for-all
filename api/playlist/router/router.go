@@ -1,8 +1,8 @@
 package router
 
 import (
-	"github.com/andregumieri/music-for-all/tree/develop/api/controllers"
-	"github.com/andregumieri/music-for-all/tree/develop/api/responses"
+	"github.com/andregumieri/music-for-all/playlist/controllers"
+	"github.com/andregumieri/music-for-all/responses"
 	"github.com/aws/aws-lambda-go/events"
 	"net/http"
 )

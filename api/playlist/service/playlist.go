@@ -2,8 +2,8 @@ package service
 
 import (
 	"errors"
-	"github.com/andregumieri/music-for-all/tree/develop/api/models"
-	"github.com/andregumieri/music-for-all/tree/develop/api/repository"
+	"github.com/andregumieri/music-for-all/playlist/models"
+	"github.com/andregumieri/music-for-all/playlist/repository"
 	"strings"
 )
 

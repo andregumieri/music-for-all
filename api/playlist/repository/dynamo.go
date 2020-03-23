@@ -3,7 +3,7 @@ package repository
 import (
 	"errors"
 	"fmt"
-	"github.com/andregumieri/music-for-all/tree/develop/api/models"
+	"github.com/andregumieri/music-for-all/playlist/models"
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/dynamodb"

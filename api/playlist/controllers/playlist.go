@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"github.com/andregumieri/music-for-all/tree/develop/api/models"
-	"github.com/andregumieri/music-for-all/tree/develop/api/responses"
-	"github.com/andregumieri/music-for-all/tree/develop/api/service"
+	"github.com/andregumieri/music-for-all/playlist/models"
+	"github.com/andregumieri/music-for-all/playlist/service"
+	"github.com/andregumieri/music-for-all/responses"
 	"github.com/aws/aws-lambda-go/events"
 	"strings"
 )
