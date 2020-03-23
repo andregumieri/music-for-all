@@ -34,10 +34,12 @@ func HandleCreatePlaylist(request events.APIGatewayProxyRequest) events.APIGatew
 }
 
 func HandleGetPlaylist(request events.APIGatewayProxyRequest) events.APIGatewayProxyResponse {
+	fmt.Println(fmt.Sprintf("Request parameters: %v", request.PathParameters))
 	id := request.PathParameters["id"]
 	if strings.TrimSpace(id) == "" {
 		return responses.BadRequest(errors.New("id parameter cannot be null"))
 	}
+	fmt.Println(fmt.Sprintf("Request parameter ID: %s", id))
 
 	playlistResponse, err := service.GetPlaylist(id)
 
